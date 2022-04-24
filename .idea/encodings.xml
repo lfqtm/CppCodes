@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/ch1/arr/bubble_sorting.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ch1/arr/def_two_arr.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ch1/arr/five_pig.cpp" charset="GBK" />
     <file url="file://$PROJECT_DIR$/ch1/flow/random_while.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ch1/fun/swap.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ch1/struct/struct_arr.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ch1/struct/struct_const.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ch1/struct/struct_p.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/ch1/struct/struct_stu.cpp" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
